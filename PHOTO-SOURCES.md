@@ -68,3 +68,13 @@ The current hero uses a locally saved Pexels photograph of a group sharing food 
 - Source: https://www.pexels.com/photo/people-having-a-toast-3184183/
 - Download: https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg
 - License: [Pexels License](https://www.pexels.com/license/), free for personal and commercial use without required attribution. The photograph is licensed stock, not a public-domain image.
+
+## Current Asian family dining hero
+
+Only the main header photograph was replaced, with a family sharing Asian dishes around a table. Saved as `assets/hero/group-dining.jpg` and embedded in the header.
+
+Source: https://www.pexels.com/photo/7363701/
+
+Image: https://images.pexels.com/photos/7363701/pexels-photo-7363701.jpeg
+
+License: [Pexels License](https://www.pexels.com/license/), free for personal and commercial use without required attribution. This supersedes the previous hero photograph credit.
