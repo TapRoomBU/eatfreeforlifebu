@@ -58,3 +58,13 @@ The Gathering with Friends or Family and Date nights photos were replaced with t
 ## User-supplied main title image
 
 The hero stock image was replaced with the uploaded main title photograph. The original and optimized copy are retained in `assets/hero/`; the optimized copy is embedded in the page for standalone previews.
+
+## Group dining hero photo
+
+The current hero uses a locally saved Pexels photograph of a group sharing food around a table, embedded in the page for standalone previews. This replaces the previous main title image.
+
+- Local file: `assets/hero/group-dining.jpg`
+- Photographer: fauxels
+- Source: https://www.pexels.com/photo/people-having-a-toast-3184183/
+- Download: https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg
+- License: [Pexels License](https://www.pexels.com/license/), free for personal and commercial use without required attribution. The photograph is licensed stock, not a public-domain image.
