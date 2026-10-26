@@ -90,3 +90,7 @@ License: [Unsplash License](https://unsplash.com/license), free for commercial u
 ## Current uploaded Hero Image
 
 The hero now uses the user-supplied `Hero Image.jpg`, saved as `assets/hero/uploaded-hero.jpg`. EXIF orientation was normalized and the JPEG optimized. This image supersedes the stock hero photographs above. It is embedded for standalone previews, with a responsive hero height and a crop anchored at center 30% to keep the burgers and gathering visible.
+
+## Uploaded hero delivery update
+
+The approved in-house hero is now loaded directly from `/assets/hero/uploaded-hero.jpg` and preloaded for prompt display. This supersedes the embedded-image delivery note above; the portrait orientation and responsive sizing are retained.
