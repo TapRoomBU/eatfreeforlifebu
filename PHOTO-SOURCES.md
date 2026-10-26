@@ -86,3 +86,7 @@ The hero now shows a casual restaurant/pub gathering with diners, plates of food
 Source photograph: https://images.unsplash.com/photo-1528605248644-14dd04022da1.
 
 License: [Unsplash License](https://unsplash.com/license), free for commercial use. This supersedes the previous hero photograph credits.
+
+## Current uploaded Hero Image
+
+The hero now uses the user-supplied `Hero Image.jpg`, saved as `assets/hero/uploaded-hero.jpg`. EXIF orientation was normalized and the JPEG optimized. This image supersedes the stock hero photographs above. It is embedded for standalone previews, with a responsive hero height and a crop anchored at center 30% to keep the burgers and gathering visible.
