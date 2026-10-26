@@ -78,3 +78,11 @@ Source: https://www.pexels.com/photo/7363701/
 Image: https://images.pexels.com/photos/7363701/pexels-photo-7363701.jpeg
 
 License: [Pexels License](https://www.pexels.com/license/), free for personal and commercial use without required attribution. This supersedes the previous hero photograph credit.
+
+## Current Tap Room gathering hero
+
+The hero now shows a casual restaurant/pub gathering with diners, plates of food, and drinks around a long table. This replaces the previous family-at-home hero. The image is saved as `assets/hero/group-dining.jpg` and embedded in the page for standalone previews.
+
+Source photograph: https://images.unsplash.com/photo-1528605248644-14dd04022da1.
+
+License: [Unsplash License](https://unsplash.com/license), free for commercial use. This supersedes the previous hero photograph credits.
